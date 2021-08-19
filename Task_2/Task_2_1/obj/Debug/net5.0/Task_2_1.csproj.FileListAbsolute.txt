@@ -1,0 +1,16 @@
+E:\Стажировка в ISSoft\Task_2\Task_2_1\bin\Debug\net5.0\Task_2_1.exe
+E:\Стажировка в ISSoft\Task_2\Task_2_1\bin\Debug\net5.0\Task_2_1.deps.json
+E:\Стажировка в ISSoft\Task_2\Task_2_1\bin\Debug\net5.0\Task_2_1.runtimeconfig.json
+E:\Стажировка в ISSoft\Task_2\Task_2_1\bin\Debug\net5.0\Task_2_1.runtimeconfig.dev.json
+E:\Стажировка в ISSoft\Task_2\Task_2_1\bin\Debug\net5.0\Task_2_1.dll
+E:\Стажировка в ISSoft\Task_2\Task_2_1\bin\Debug\net5.0\ref\Task_2_1.dll
+E:\Стажировка в ISSoft\Task_2\Task_2_1\bin\Debug\net5.0\Task_2_1.pdb
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.csprojAssemblyReference.cache
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.AssemblyInfoInputs.cache
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.AssemblyInfo.cs
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.csproj.CoreCompileInputs.cache
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.dll
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\ref\Task_2_1.dll
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.pdb
+E:\Стажировка в ISSoft\Task_2\Task_2_1\obj\Debug\net5.0\Task_2_1.genruntimeconfig.cache
